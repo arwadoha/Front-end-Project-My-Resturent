@@ -21,9 +21,9 @@ Check out the live demo of the project: [Restaurant Frontend Demo](https://vermi
 
 ## Screenshots
 
-[Screenshot 1](![image](https://github.com/arwadoha/Front-end-Project-My-Resturent/assets/135133177/785621ef-228c-4ce9-b8a8-dac0e0af1fb8)
+(![image](https://github.com/arwadoha/Front-end-Project-My-Resturent/assets/135133177/785621ef-228c-4ce9-b8a8-dac0e0af1fb8)
 )
-[Screenshot 2](![image](https://github.com/arwadoha/Front-end-Project-My-Resturent/assets/135133177/af963a30-acee-40e1-8fc3-89c200e7d6a2)
+(![image](https://github.com/arwadoha/Front-end-Project-My-Resturent/assets/135133177/af963a30-acee-40e1-8fc3-89c200e7d6a2)
 )
 [Screenshot 3](![image](https://github.com/arwadoha/Front-end-Project-My-Resturent/assets/135133177/e9caf561-3e48-4a6e-b2e5-28c99ed0eda3)
 )
